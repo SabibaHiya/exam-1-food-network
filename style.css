@@ -1,0 +1,119 @@
+* {
+  :0 ;
+  padding: 0;
+}
+body {
+}
+
+span {
+  color: indianred;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  color: gray;
+}
+.diet-part {
+  margin-top: 200px;
+  text-align: left;
+}
+.top-part {
+  display: flex;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.top-part img {
+  height: 500px;
+  width: 600px;
+  margin-top: 5%;
+  padding-left: 30%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(
+    45deg,
+    rgb(182, 37, 37),
+    rgb(201, 162, 178)
+  );
+  padding: 10px 20px;
+  border-radius: 51px;
+  color: white;
+  font-weight: 200;
+}
+#bg-img {
+  background-image: url(images/shapes/Frame\ 58.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.my-rcp-wdt {
+  margin-top: 120px;
+  display: flex;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.girl-img img {
+  height: 400px;
+  width: 300px;
+  margin-top: 5%;
+  padding-right: 10%;
+}
+.text {
+  padding-top: 80px;
+  padding-left: 60px;
+  text-align: justify;
+  padding-left: 30%;
+  padding-right: 20%;
+}
+.text h2 {
+  font-size: 50px;
+  color: crimson;
+}
+.center-text h3 {
+  text-align: center;
+  font-size: 30px;
+  color: chocolate;
+}
+.center-text p {
+  text-align: inherit;
+  text-decoration: lightcoral;
+}
+
+.half-width {
+  width: 340px;
+  height: 400px;
+  display: inline-block;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  width: 280px;
+  height: 200px;
+  margin-left: 5%;
+  margin-top: 5%;
+  border-radius: 50px;
+}
+
+.single-box {
+  border: 1px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 50px;
+  background-color: white;
+}
+#bacground {
+  background-color: rgb(231, 124, 124);
+  height: 260px;
+  width: 100%;
+  margin-top: 4%;
+}
+.foot-part {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-weight: 100px;
+}
+.foot-part p {
+  font-size: 20px;
+  color: rgb(226, 55, 127);
+}
